@@ -1,0 +1,47 @@
+body {
+    background: #101010;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+a {
+    color: pink;
+}
+
+a:hover {
+    color: salmon;
+}
+
+canvas {
+    border:#000000 2px solid;
+}
+
+button {
+    font-size: 25px;
+}
+
+.content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    background: #151515;
+}
+
+#bridges-map {
+    width: 800px;
+    height: 600px;
+    border: 2px black solid;
+}
+
+#bridges-chart {
+    width: 800px;
+    height: 600px;
+    background: white;
+    color: black;
+}
